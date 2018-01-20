@@ -6,3 +6,5 @@ def create_project_hash
 
   kickstarter.css(".project-card")
 end
+
+puts create_project_hash
